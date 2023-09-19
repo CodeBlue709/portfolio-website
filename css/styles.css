@@ -146,3 +146,8 @@ color: orange;
     margin-right:0!important;
 }
 }
+@media(max-width:500px){
+    .project-pics{
+        width: 400px !important;
+    }
+}
