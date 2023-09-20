@@ -148,7 +148,7 @@ color: orange;
 }
 @media(max-width:500px){
     .project-pics{
-        width: 300px !important;
+        width: 240px !important;
         height: 310px;
     }
 }
